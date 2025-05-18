@@ -5,7 +5,7 @@ HMTC+ is a demo of the scheme in the paper "Time-and-Task-Bound Heterogeneous Mu
 ## build Dependencies
 
 * OS: Ubuntu 16.04 LTS.
-* make,gcc,g++
+* make, gcc, g++
 
 
 
